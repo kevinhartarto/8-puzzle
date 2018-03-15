@@ -1,0 +1,13 @@
+
+:python:S125"Remove this commented out code.(©Ï†8ôö¡‹,
+opython:S100"SRename method "_rebuildPath" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜×¼¿8ôö¡‹,
+epython:S100"IRename method "_h" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(æ‹§•8ôö¡‹,
+epython:S100"IRename method "_g" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Á× ş8ôö¡‹,
+Xpython:PrintStatementUsage"-Replace print statement by built-in function.(£Âª’8ôö¡‹,
+Xpython:PrintStatementUsage"-Replace print statement by built-in function.(£Âª’8ôö¡‹,
+Xpython:PrintStatementUsage"-Replace print statement by built-in function.(£Âª’8ôö¡‹,
+Xpython:PrintStatementUsage"-Replace print statement by built-in function.(£Âª’8ôö¡‹,
+Xpython:PrintStatementUsage"-Replace print statement by built-in function.(£Âª’8ôö¡‹,
+Xpython:PrintStatementUsage"-Replace print statement by built-in function.(£Âª’8ôö¡‹,
+Xpython:PrintStatementUsage"-Replace print statement by built-in function.(£Âª’8ôö¡‹,
+Xpython:PrintStatementUsage"-Replace print statement by built-in function.(£Âª’8ôö¡‹,
